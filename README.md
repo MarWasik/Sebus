@@ -1,1 +1,2 @@
 # Sebus
+"Program" dla przyjaciela
