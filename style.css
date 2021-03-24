@@ -1,0 +1,14 @@
+body {
+    min-height: 100vh;
+    background-color: hotpink;
+}
+
+h2 {
+    margin-top: 20vh;
+}
+
+button {
+    margin: 30px;
+    width: 150px;
+    height: 40px;
+}
